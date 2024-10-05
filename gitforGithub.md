@@ -1,0 +1,1 @@
+sau khi chọn thư mục và ấn git bash, nhập lệnh sau: git init 
